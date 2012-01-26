@@ -1,6 +1,7 @@
 $LOAD_PATH.push File.expand_path("../lib", __FILE__)
 require 'paperclip/version'
 
+
 Gem::Specification.new do |s|
   s.name              = "paperclip"
   s.version           = Paperclip::VERSION
